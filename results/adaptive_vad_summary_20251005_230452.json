@@ -1,0 +1,47 @@
+{
+  "timestamp": "20251005_230452",
+  "total_files": 6,
+  "total_duration": 16.585874999999998,
+  "average_speech_ratio": 0.35729767032543785,
+  "language_distribution": {
+    "hindi": 6
+  },
+  "file_results": [
+    {
+      "filename": "1.wav",
+      "language": "hindi",
+      "duration": 6.236375,
+      "speech_ratio": 0.3573717948717949
+    },
+    {
+      "filename": "2.wav",
+      "language": "hindi",
+      "duration": 2.572875,
+      "speech_ratio": 0.375968992248062
+    },
+    {
+      "filename": "3.wav",
+      "language": "hindi",
+      "duration": 2.20425,
+      "speech_ratio": 0.48868778280542985
+    },
+    {
+      "filename": "4.wav",
+      "language": "hindi",
+      "duration": 2.03775,
+      "speech_ratio": 0.27450980392156865
+    },
+    {
+      "filename": "5.wav",
+      "language": "hindi",
+      "duration": 1.830125,
+      "speech_ratio": 0.2554347826086957
+    },
+    {
+      "filename": "6.wav",
+      "language": "hindi",
+      "duration": 1.7045,
+      "speech_ratio": 0.391812865497076
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "timestamp": "20251005_231202",
+  "total_files": 11,
+  "total_duration": 17197.770125,
+  "average_speech_ratio": 0.41437597603419635,
+  "language_distribution": {
+    "punjabi": 9,
+    "hindi": 2
+  },
+  "file_results": [
+    {
+      "filename": "punjabi_8MgMp9LL30c.wav",
+      "language": "punjabi",
+      "duration": 1435.0976875,
+      "speech_ratio": 0.47055257473346807
+    },
+    {
+      "filename": "punjabi_ABTqmvDkhrk.wav",
+      "language": "punjabi",
+      "duration": 646.1649375,
+      "speech_ratio": 0.4705263320797932
+    },
+    {
+      "filename": "punjabi_ap5UvIvFanY.wav",
+      "language": "punjabi",
+      "duration": 2702.3035,
+      "speech_ratio": 0.43887266819868925
+    },
+    {
+      "filename": "punjabi_DqeqpIXbiek.wav",
+      "language": "punjabi",
+      "duration": 242.8735,
+      "speech_ratio": 0.4241600790513834
+    },
+    {
+      "filename": "punjabi_ducAuLg0I6c.wav",
+      "language": "punjabi",
+      "duration": 1977.0514375,
+      "speech_ratio": 0.38418662053756586
+    },
+    {
+      "filename": "punjabi_eANoRLaA1cE.wav",
+      "language": "hindi",
+      "duration": 2583.498625,
+      "speech_ratio": 0.2846719566479582
+    },
+    {
+      "filename": "punjabi_ErU5v0RY7EM.wav",
+      "language": "punjabi",
+      "duration": 2423.2746875,
+      "speech_ratio": 0.43465055627083954
+    },
+    {
+      "filename": "punjabi_hcCAM8brzPY.wav",
+      "language": "punjabi",
+      "duration": 933.7440625,
+      "speech_ratio": 0.4403962516733601
+    },
+    {
+      "filename": "punjabi_PFyXRWHUo-8.wav",
+      "language": "punjabi",
+      "duration": 1614.762125,
+      "speech_ratio": 0.3966818803916347
+    },
+    {
+      "filename": "punjabi_QzmOp8r2rt0.wav",
+      "language": "punjabi",
+      "duration": 2515.5221875,
+      "speech_ratio": 0.38267879929875614
+    },
+    {
+      "filename": "punjabi_SDmPIzRmUAQ.wav",
+      "language": "hindi",
+      "duration": 123.477375,
+      "speech_ratio": 0.43075801749271136
+    }
+  ]
+}

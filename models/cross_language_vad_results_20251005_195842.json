@@ -1,0 +1,33 @@
+{
+  "timestamp": "20251005_195842",
+  "optimization": {
+    "best_f1": 1.0,
+    "parameters": {
+      "energy_threshold": 0.7845304681279897,
+      "zcr_threshold": 0.6344921678698525,
+      "spectral_threshold": 0.46286543427538823,
+      "mfcc_weight": 0.3224020154570338,
+      "contrast_weight": 0.34696484830850505
+    },
+    "iterations": 1,
+    "function_evaluations": 106
+  },
+  "test_results": {
+    "hindi_average": {
+      "f1": NaN,
+      "accuracy": NaN,
+      "precision": NaN,
+      "recall": NaN
+    },
+    "punjabi_average": {
+      "f1": NaN,
+      "accuracy": NaN,
+      "precision": NaN,
+      "recall": NaN
+    },
+    "detailed_results": {
+      "hindi": [],
+      "punjabi": []
+    }
+  }
+}
